@@ -1,6 +1,8 @@
 Copyright (c) [2013], [Apanasik Andrey]
 http://suvitruf.ru/
+
 https://github.com/Suvitruf/libgdx/tree/master/NES%20Bomberman
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
